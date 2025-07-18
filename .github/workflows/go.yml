@@ -5,9 +5,9 @@ name: Go
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "webpostman" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "webpostman" ]
 
 jobs:
 
